@@ -1,0 +1,134 @@
+body{
+    overflow: hidden;
+    font-size: 1vw;
+    margin: 0;
+    height: 100vh;
+    width: 100vw;
+}
+
+pageWrapper{
+    background-color: #EDF8FC;
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#circle{
+    overflow: hidden;
+    position: absolute;
+    left: 41.53em;
+    width: 130.56em;
+    height: 130.56em;
+    border-radius: 50%;
+    background-color: white;
+    margin-bottom: 46.39em;
+}
+
+header-container{
+    display: flex;
+    position: absolute ;
+    top: 3.19em;
+}
+
+p{
+    margin: 0;
+    font-size: 1.25em;
+    font-family: poppins;
+    font-weight: 600;
+    color: #221936;
+}
+
+#middle{
+    padding-left: 3.54rem;
+    padding-right: 3.54rem;
+}
+
+logo-container{
+    width: 11.46em;
+    height: 2.5em;
+    position: absolute;
+    top: 2.78em;
+    left: 4.17em;
+}
+
+#logo{
+    width: 11.46em;
+    height: 2.5em;
+}
+
+#app-image{
+    position: absolute;
+    right: 4.79em;
+    height: 54.91em;
+    width: 44.08em;
+    margin-top: 1.62em;
+}
+
+#appstore-image{
+    height: 2.92em;
+    width: 8.4em;
+    position: absolute;
+    bottom: 2.36em;
+    right: 2.71em;
+}
+
+main-container{
+    display: inline-block;
+    position: absolute;
+    left: 6.39em;
+}
+
+h1{
+    font-size: 4.03em;
+    letter-spacing: -0.020em;
+    color: #221936;
+    font-weight: 700;
+    font-family: poppins;
+    line-height: 1.34;
+    margin: 0;
+}
+
+headline{
+    display: inline-block;
+    letter-spacing: -0.03em;
+    font-family: poppins;
+    font-size: 1.39em;
+    font-weight: 500;
+    line-height: 2;
+    color: #898199;
+    margin-top: 1.4em;
+    margin-bottom: 1.5em;
+}
+
+cta-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 27.08em;
+    height: 4.24em;
+    border-radius: 0.69em;
+    border: 2px solid #EF7771;
+}
+
+enter-email{
+    padding-left: 1.39em;
+    font-family: poppins;
+    font-weight: 500;
+    color: #898199;
+    opacity: 80%;
+    font-size: 1.25em;
+}
+
+.button{
+    border: none;
+    font-size: 1.25em;
+    font-family: poppins;
+    font-weight: 600;;
+    color: white;
+    padding: 1em 2.20em;
+    background-color: #EF7771;
+    border-radius: 0em 0.4em 0.4em 0em;
+}

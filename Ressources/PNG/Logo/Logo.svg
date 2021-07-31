@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="165" height="36" viewBox="0 0 165 36">
+  <g id="Logo" transform="translate(-40 -40)">
+    <g id="Groupe_62" data-name="Groupe 62" transform="translate(-68 -7)">
+      <path id="Rectangle_23" data-name="Rectangle 23" d="M0,0H15a9,9,0,0,1,9,9V24a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z" transform="translate(122 47)" fill="#221936"/>
+      <path id="Rectangle_24" data-name="Rectangle 24" d="M0,0H24a0,0,0,0,1,0,0V24a0,0,0,0,1,0,0H9a9,9,0,0,1-9-9V0A0,0,0,0,1,0,0Z" transform="translate(108 59)" fill="#221936"/>
+    </g>
+    <text id="RocketLab" transform="translate(92 68)" fill="#221936" font-size="22" font-family="PlusJakartaDisplay-Bold, Plus Jakarta Display" font-weight="700" letter-spacing="-0.005em"><tspan x="0" y="0">RocketLab</tspan></text>
+  </g>
+</svg>
