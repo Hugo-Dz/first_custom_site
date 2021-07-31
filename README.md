@@ -5,4 +5,4 @@
 * Hosted on GitHub Page.
 
 ## Site design
-![Website design]("./Ressources/PNG/Images/Site Design.jpg")
+![Website design]("./Ressources/PNG/Images/Site design.jpg")
