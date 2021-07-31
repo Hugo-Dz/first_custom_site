@@ -1,5 +1,9 @@
 # Welcome to my first custom website!
 
+# Visit!
+
+[Click here!](https://hugo-dz.github.io/first_custom_site/)
+
 * Design done on Adobe XD.
 * Coding on VS code.
 * Hosted on GitHub Page.
