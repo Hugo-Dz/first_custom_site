@@ -1,6 +1,6 @@
 # Welcome to my first custom website!
 
-# Visit!
+## Visit!
 
 [Click here!](https://hugo-dz.github.io/first_custom_site/)
 
